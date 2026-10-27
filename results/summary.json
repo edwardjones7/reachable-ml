@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "best_model": "Gradient boosting",
+  "leakage_gap_roc_auc": 0.14037874722864274,
+  "leakage_gap_pr_auc": 0.21386938842279607,
+  "best_vs_logreg_cv_pr_auc": 0.024075806344158623,
+  "temporal_minus_random_roc_auc": -0.17424213858555904,
+  "temporal_minus_random_pr_auc": -0.06218683555531751
+}
